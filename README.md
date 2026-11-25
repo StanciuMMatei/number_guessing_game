@@ -1,1 +1,1 @@
-# number_guessing_game
+I created a small number guessing game : the program generates each compilation a random number between 0 and 100 and you have 3 attempts to guess it. In case you don't guess it you will still find out what the real number was.
